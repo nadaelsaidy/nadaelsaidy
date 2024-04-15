@@ -5,8 +5,8 @@
   
   ## 🌍 Find Me Elsewhere
   
-  -[Twitter](https://twitter.com/nadaayman9231)-
-  -[LinkedIn](https://www.linkedin.com/in/nada-ayman-6296b5254/)-
+ [https://www.linkedin.com/in/nada-ayman-6296b5254/]
+ [https://twitter.com/nadaayman9231]
   
   ## 🚀 Projects 
 
