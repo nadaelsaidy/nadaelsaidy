@@ -4,9 +4,10 @@
 - 📫 How to reach me nadaayman9231@gmail.com
   
   ## 🌍 Find Me Elsewhere
-  
- [https://www.linkedin.com/in/nada-ayman-6296b5254/]
- [https://twitter.com/nadaayman9231]
+
+- :Twitter:(https://twitter.com/yourtwitter)
+- :LinkedIn:(https://linkedin.com/in/yourlinkedin)
+
   
   ## 🚀 Projects 
 
