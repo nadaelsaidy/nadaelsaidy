@@ -5,8 +5,8 @@
   
   ## 🌍 Find Me Elsewhere
 
-- :Twitter:(https://twitter.com/yourtwitter)
-- :LinkedIn:(https://linkedin.com/in/yourlinkedin)
+- [![Twitter](https://your-image-url.png)](https://twitter.com/yourtwitter)
+- [:LinkedIn:](https://linkedin.com/in/yourlinkedin)
 
   
   ## 🚀 Projects 
