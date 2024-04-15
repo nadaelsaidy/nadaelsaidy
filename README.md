@@ -5,7 +5,7 @@
   
   ## 🌍 Find Me Elsewhere
 
-- [![Twitter](https://your-image-url.png)](https://twitter.com/yourtwitter)
+  :twitter:
 - [:LinkedIn:](https://linkedin.com/in/yourlinkedin)
 
   
