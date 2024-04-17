@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nada Ayman</h1>
-<h3 align="center">Front End Developer and Competitive Programmer</h3>
+<h3 align="center"> Computer Science Student </h3>
 
 
 - 🔭I am a Student at [Faculty of Computers & Informatics at Suez Canal University.](https://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/)
